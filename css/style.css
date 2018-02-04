@@ -132,6 +132,10 @@ a {
   background-color: #484848;
 }
 
+.role {
+  color: #ccc;
+}
+
 .flex-box {
   display: -webkit-flex;
   display: flex;
